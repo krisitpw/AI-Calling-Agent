@@ -1,2 +1,60 @@
 # AI-Calling-Agent
 AI Calling Agent using Twilio &amp; Flask (Python)
+🤖 AI Calling Agent using Twilio & Flask (Python)
+
+An AI-powered voice calling agent built with Twilio, Flask, and Python.
+This system can make and receive phone calls, interact with users via voice, process speech input, and respond intelligently using AI logic.
+
+Ideal for:
+
+Real estate follow-ups
+
+Customer support automation
+
+Lead qualification
+
+Appointment reminders
+
+AI voice assistants
+
+🚀 Features
+
+📞 Outbound & inbound calling via Twilio
+
+🎙️ Speech-to-Text (caller input)
+
+🧠 AI-powered responses
+
+🔁 Real-time conversational flow
+
+🌐 Webhook-based call handling
+
+⚡ Flask lightweight backend
+
+🔒 Secure environment variable setup
+
+🛠️ Tech Stack
+
+Python 3.9+
+
+Flask – Web framework
+
+Twilio Voice API
+
+Twilio Speech Recognition
+
+AI Engine (LLM / NLP logic)
+
+ngrok / Public HTTPS endpoint
+
+🧪 Use Cases
+
+🏠 Real estate lead qualification
+
+☎️ Automated customer support
+
+📅 Appointment booking
+
+📢 Marketing & follow-ups
+
+🤖 AI receptionist
